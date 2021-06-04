@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 38,
+      "name": "Gaomon",
+      "lastName": "sss",
+      "email": "desing_fred@outlook.com",
+      "srcImg": "https://source.unsplash.com/user/jakobnoahrosen/DFkULHCtnvY",
+      "status": "enable"
+    },
+    {
+      "id": 43,
+      "name": "Gaomon",
+      "lastName": "Rivas",
+      "email": "alfredo@outlook.com",
+      "srcImg": "https://source.unsplash.com/user/jakobnoahrosen/OM2TmHobczo",
+      "status": "disabled"
+    },
+    {
+      "id": 44,
+      "name": "Fredy",
+      "lastName": "sss",
+      "email": "alfredo@outlook.com",
+      "srcImg": "https://source.unsplash.com/user/jakobnoahrosen/OM2TmHobczo",
+      "status": "enable"
+    },
+    {
+      "id": 45,
+      "name": "Alfredo",
+      "lastName": "Casillas",
+      "email": "alfredo@outlook.com",
+      "srcImg": "https://source.unsplash.com/user/jakobnoahrosen/DFkULHCtnvY",
+      "status": "enable"
+    },
+    {
+      "id": 46,
+      "name": "Alfredo",
+      "lastName": "Rivas",
+      "email": "desing_fred@outlook.com",
+      "srcImg": "https://source.unsplash.com/user/jakobnoahrosen/OM2TmHobczo",
+      "status": "enable"
+    },
+    {
+      "id": 47,
+      "name": "Fredy",
+      "lastName": "Rivas",
+      "email": "alfredo@outlook.com",
+      "srcImg": "https://source.unsplash.com/user/jakobnoahrosen/DFkULHCtnvY",
+      "status": "enable"
+    }
+  ]
+}
